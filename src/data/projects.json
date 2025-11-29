@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-featured online store with product management, cart functionality, and secure checkout. Built with scalability in mind using microservices architecture.",
+    "tech": ["React", "Node.js", "Express", "PostgreSQL", "AWS S3"],
+    "github": "https://github.com/mohanadbabgi/ecommerce-platform",
+    "demo": "https://demo-ecommerce.mohanadbabgi.com"
+  },
+  {
+    "id": 2,
+    "title": "Task Management System",
+    "description": "Collaborative task manager with real-time updates, team workspaces, and progress tracking. Implements role-based access control.",
+    "tech": ["ASP.NET Core", "React", "SQL Server", "SignalR"],
+    "github": "https://github.com/mohanadbabgi/task-manager",
+    "demo": "https://tasks.mohanadbabgi.com"
+  },
+  {
+    "id": 3,
+    "title": "Cloud Infrastructure Dashboard",
+    "description": "A centralized dashboard to monitor AWS resources including EC2 instances and S3 buckets. Visualizes metrics using CloudWatch data.",
+    "tech": ["React", "Python", "Boto3", "AWS CloudWatch", "Chart.js"],
+    "github": "https://github.com/mohanadbabgi/cloud-dashboard",
+    "demo": "https://cloud-dash.mohanadbabgi.com"
+  },
+  {
+    "id": 4,
+    "title": "DevOps CI/CD Pipeline",
+    "description": "Automated deployment pipeline demonstrating continuous integration and delivery. Features automated testing, Docker containerization, and deployment to AWS.",
+    "tech": ["Jenkins", "Docker", "GitHub Actions", "AWS EC2", "Nginx"],
+    "github": "https://github.com/mohanadbabgi/cicd-pipeline",
+    "demo": "https://cicd.mohanadbabgi.com"
+  },
+  {
+    "id": 5,
+    "title": "Real-time Chat Application",
+    "description": "Instant messaging application supporting private and group chats. Features message persistence and online status indicators.",
+    "tech": ["Node.js", "Socket.io", "React", "MongoDB", "Redis"],
+    "github": "https://github.com/mohanadbabgi/chat-app",
+    "demo": "https://chat.mohanadbabgi.com"
+  }
+]
