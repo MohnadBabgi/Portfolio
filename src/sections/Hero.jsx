@@ -33,7 +33,7 @@ const Hero = () => {
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-emerald-500/10 rounded-full blur-3xl -z-10"></div>
 
       <div className="container mx-auto px-6 text-center">
-        <h2 ref={addToRefs} className="text-xl md:text-2xl font-medium text-blue-400 mb-4">
+        <h2 ref={addToRefs} className="text-xl md:text-3xl font-medium text-blue-400 mb-4">
           👋 Hi, I'm
         </h2>
         <h1 ref={addToRefs} className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">

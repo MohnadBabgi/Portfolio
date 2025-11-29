@@ -12,7 +12,7 @@ const Footer = () => {
         </div>
         
         <div className="flex gap-6">
-          <a href="https://github.com/mohanadbabgi" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+          <a href="https://github.com/MohnadBabgi/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
             <Github size={20} />
           </a>
           <a href="https://www.linkedin.com/in/mohanadbabgi/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">

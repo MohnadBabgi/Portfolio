@@ -13,8 +13,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 function App() {
-  // Smooth scroll setup could go here if using a library like lenis, 
-  // but we'll stick to native smooth scroll + GSAP for now.
+  
 
   return (
     <div className="bg-slate-900 min-h-screen text-slate-50 selection:bg-blue-500/30">

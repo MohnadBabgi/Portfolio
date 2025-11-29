@@ -27,10 +27,10 @@ const About = () => {
   }, []);
 
   const items = [
-    { icon: "💡", text: "I enjoy coding — building things for fun, experimenting, and learning every day." },
+    { icon: "💡", text: "I enjoy building software, exploring new technologies, and continuously improving my development skills." },
     { icon: "☁️", text: "Experience with AWS (EC2, S3, IAM, RDS, CloudWatch)" },
-    { icon: "🧪", text: "I enjoy problem-solving and debugging." },
-    { icon: "📘", text: "Always learning and improving — from backend architecture to UI/UX polish." }
+    { icon: "🧪", text: "I’m committed to continuous learning, from backend architecture and cloud systems to modern UI/UX design practices." },
+    { icon: "📘", text: "I'm strong in problem-solving and debugging, with a focus on writing clean, reliable code." }
   ];
 
   return (

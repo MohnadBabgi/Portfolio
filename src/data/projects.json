@@ -1,42 +1,26 @@
 [
   {
     "id": 1,
-    "title": "E-Commerce Platform",
-    "description": "A full-featured online store with product management, cart functionality, and secure checkout. Built with scalability in mind using microservices architecture.",
-    "tech": ["React", "Node.js", "Express", "PostgreSQL", "AWS S3"],
-    "github": "https://github.com/mohanadbabgi/ecommerce-platform",
-    "demo": "https://demo-ecommerce.mohanadbabgi.com"
+    "title": "Personal portfolio",
+    "description": "A modern, responsive, and animated personal portfolio website built with React, Vite, and Tailwind CSS. This project showcases my skills, projects, and experience with a sleek and interactive user interface.",
+    "tech": ["React", "Vite", "Tailwind CSS", "GSAP", "Lucide React"],
+    "github": "https://github.com/MohnadBabgi/Portfolio",
+    "demo": "https://example.com/"
   },
   {
     "id": 2,
-    "title": "Task Management System",
-    "description": "Collaborative task manager with real-time updates, team workspaces, and progress tracking. Implements role-based access control.",
-    "tech": ["ASP.NET Core", "React", "SQL Server", "SignalR"],
-    "github": "https://github.com/mohanadbabgi/task-manager",
-    "demo": "https://tasks.mohanadbabgi.com"
+    "title": "Movie Tracker",
+    "description": "Movie Tracker is a full-stack web application that allows users to browse movies and TV shows, authenticate using Google or Trakt, and view data from TMDB, OMDB, and Trakt APIs. The project is fully dockerized so you can run the entire stack with a single command.",
+    "tech": ["React ", "Vite", "Docker", "Express", "Firebase Authentication","Trakt API ", "TMDB API ","OMDB API"],
+    "github": "https://github.com/MOKAIRY/CPIT405-Project",
+    "demo": "https://example.com/"
   },
   {
     "id": 3,
-    "title": "Cloud Infrastructure Dashboard",
-    "description": "A centralized dashboard to monitor AWS resources including EC2 instances and S3 buckets. Visualizes metrics using CloudWatch data.",
-    "tech": ["React", "Python", "Boto3", "AWS CloudWatch", "Chart.js"],
-    "github": "https://github.com/mohanadbabgi/cloud-dashboard",
-    "demo": "https://cloud-dash.mohanadbabgi.com"
-  },
-  {
-    "id": 4,
-    "title": "DevOps CI/CD Pipeline",
-    "description": "Automated deployment pipeline demonstrating continuous integration and delivery. Features automated testing, Docker containerization, and deployment to AWS.",
-    "tech": ["Jenkins", "Docker", "GitHub Actions", "AWS EC2", "Nginx"],
-    "github": "https://github.com/mohanadbabgi/cicd-pipeline",
-    "demo": "https://cicd.mohanadbabgi.com"
-  },
-  {
-    "id": 5,
-    "title": "Real-time Chat Application",
-    "description": "Instant messaging application supporting private and group chats. Features message persistence and online status indicators.",
-    "tech": ["Node.js", "Socket.io", "React", "MongoDB", "Redis"],
-    "github": "https://github.com/mohanadbabgi/chat-app",
-    "demo": "https://chat.mohanadbabgi.com"
+    "title": "Java library system",
+    "description": "A Java-based client-server library management system with user authentication, book rentals, and admin monitoring capabilities.",
+    "tech": ["Java", "MySQL", "JDBC", "JAVA Sockets"],
+    "github": "https://github.com/MohnadBabgi/Java-library",
+    "demo": "https://example.com/"
   }
 ]
